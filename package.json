@@ -1,0 +1,36 @@
+{
+  "name": "namaste_react",
+  "version": "1.0.0",
+  "description": "Im Thiruselvan Just use this npm",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thiruselvan123/Namaste_react.git"
+  },
+  "keywords": [
+    "React",
+    "Thiruselvan"
+  ],
+  "author": "Thiruselvan E",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thiruselvan123/Namaste_react/issues"
+  },
+  "homepage": "https://github.com/Thiruselvan123/Namaste_react#readme",
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "browserslist": [
+    "last 10 version"
+  ],
+  "devDependencies": {
+    "@babel/core": "^7.28.0",
+    "@babel/preset-react": "^7.27.1",
+    "parcel": "^2.15.4"
+  }
+}
