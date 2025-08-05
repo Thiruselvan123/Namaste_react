@@ -8,6 +8,7 @@
 
 .logo {
   width: 200px;
+  height: 100px;
 }
 
 .nav-items > ul {
@@ -43,15 +44,6 @@
   padding: auto;
 }
 
-/*.search{
-    margin: 10px 10px;
-    border: 1px solid black;
-    width: 60px;
-    height: 15px;
-    padding: 5px;
-    align-items: center;
-}*/
-
 .shimmer-card {
   height: 400px;
   width: 200px;
@@ -66,4 +58,11 @@
 
 .login-btn {
   cursor: pointer;
+}
+.search {
+  margin: 10px;
+}
+
+.filter {
+  display: flex;
 }
